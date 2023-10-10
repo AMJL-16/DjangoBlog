@@ -34,7 +34,7 @@ X_FRAME_OPTIONS = 'SAMEORIGIN'
 
 ALLOWED_HOSTS = [
     '8000-amjl-16-djangoblog-svjznjc57g.us2.codeanyapp.com',
-    'codestar-2023-1-530b8b8be035.herokuapp.com/', 'localhost']
+    'codestar-2023-1-530b8b8be035.herokuapp.com', 'localhost']
 
 
 # Application definition
