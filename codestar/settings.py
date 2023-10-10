@@ -140,7 +140,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 # account authorisation
 # avoid 500 errors status
-# ACCOUNT_EMAIL_VERIFICATION = 'none'
+ACCOUNT_EMAIL_VERIFICATION = 'none'
 
 
 # Internationalization
